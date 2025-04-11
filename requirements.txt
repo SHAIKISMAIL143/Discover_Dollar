@@ -1,0 +1,34 @@
+# Web framework (if building a web app)
+flask
+
+# For data processing and ETL
+pandas
+numpy
+
+# For handling different file formats
+python-docx
+PyPDF2
+openpyxl
+
+# Natural Language Processing
+nltk
+spacy
+transformers
+torch  # Required for transformers like BERT
+
+# For multilingual support and translation
+langdetect
+googletrans==4.0.0-rc1
+
+# For PDF and email parsing
+pdfminer.six
+beautifulsoup4
+
+# For working with JSON APIs
+requests
+
+# Optional: If you want a frontend-backend connector
+flask-cors
+
+# Optional: For advanced job scheduling or background tasks
+celery
